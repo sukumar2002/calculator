@@ -14,4 +14,3 @@ function calculateResult() {
         display.value = 'Error';
     }
 }
-f
